@@ -1,0 +1,15 @@
+.video-responsive {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+
+  overflow: hidden;
+}
+
+.video-responsive iframe {
+  position:fixed;
+  bottom:70px;  
+  right: 10%;
+  width: 50%;
+  height: 50%;
+}

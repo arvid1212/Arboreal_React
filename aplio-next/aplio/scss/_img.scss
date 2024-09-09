@@ -1,0 +1,25 @@
+.Header-Container{
+    
+    .bimg  {
+    position: relative;    
+        margin: auto;
+    width: 100%;
+    
+    border-radius: 2%;
+   };
+
+    .Headertxt{
+
+        color:white;
+        position: absolute;
+        top: 70%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    };
+
+};
+.logo{
+
+    width: 177px;
+   height: 80px;
+}
