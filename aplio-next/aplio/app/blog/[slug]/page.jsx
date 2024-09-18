@@ -1,4 +1,5 @@
 import Footer from '@/components/footer/Footer'
+import PrimaryNavbar from '@/components/navbar/PrimaryNavbar'
 import SecondaryNavbar from '@/components/navbar/SecondaryNavbar'
 import NewsLetter from '@/components/shared/NewsLetter'
 import PageHero from '@/components/shared/PageHero'
@@ -28,9 +29,9 @@ const BlogDetails = (props) => {
   const postParams = blog.data
   return (
     <>
-      <SecondaryNavbar />
+      <PrimaryNavbar />
       <main>
-        <PageHero subtitle="BLOG Details" title="Recent blogs created <br/> by aplio" />
+        <PageHero subtitle="" title="Nyheter <br/> om Arboreal" />
         <article className="relative pb-150">
           <div className="absolute -top-[250px] left-1/2 -z-10 h-[550px] w-full -translate-x-1/2  bg-[url('/images/hero-gradient.png')] bg-cover bg-center bg-no-repeat opacity-70 md:hidden"></div>
           <div className="container relative ">
@@ -66,7 +67,7 @@ const BlogDetails = (props) => {
             </div>
           </div>
         </article>
-        <NewsLetter />
+    
       </main>
       <Footer />
     </>

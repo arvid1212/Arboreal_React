@@ -1,40 +1,25 @@
 ---
-title: Adding Benefits in Marketing Sectors
+title: Genomgång av alla avancerade funktioner - video för Arboreal Skog
 thumbnail: "/images/blog/blog2.png"
 featureImage: "/images/blog/blogDetails.png"
-date: Aug 30, 2024
-author: Kelly Manson
+date: 31 Aug 2023
+author: Johan Ekenstedt
 featured: true
-categories: "Marketing"
-tags: Benefits
-
+categories: "News"
+tags: Height,news
 ---
+Genomgång av alla avancerade funktioner - video för Arboreal Skog
+	
+Känner du till allting i vår app Arboreal Skog?
 
-Lorem ipsum dolor sit amet consectetur. Nullam blandit dui gravida aliquam enim eu. Adipiscing viverra vulputate curabitur est.
+Johan Ekenstedt har gjort en video där han går genom alla avancerade funktioner 🎥. Ta en titt!
 
-Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit.
-
-Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.
-
-### Work harder & gain success
-
-Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit.
-
-Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.
-
-- Manage your time so you’ll get more done in less time
-- Cut expenses without sacrificing quality
-- Attract and retain quality, high-paying customers
-
-![blog images](/images/blog/blogDetails1.png)
-![about images](/images/blog/blogDetails2.png)
-
-### Manage your online banking
-
-Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit.
-
-Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.
-
-- Manage your time so you’ll get more done in less time
-- Cut expenses without sacrificing quality
-- Attract and retain quality, high-paying customers
+Innehåll:
+<ul>
+ 	<li>Hur du byter trädslag på redan mätta träd</li>
+ 	<li>Markera ett träd som skadat</li>
+ 	<li>Radera mätningar</li>
+ 	<li>Genomgång av olika inställningar</li>
+ 	<li>Orientera det lokala koordinatsystemet mot norr</li>
+ 	<li>+ Mycket annat</li>
+</ul>

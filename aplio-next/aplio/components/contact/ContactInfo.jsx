@@ -28,8 +28,8 @@ const ContactInfo = () => {
                     className="fill-paragraph dark:fill-white"
                   />
                 </svg>
-                <h3 className="mb-2.5">Our Address</h3>
-                <p>2464 Royal Ln. Mesa, New Jersey 45463</p>
+                <h3 className="mb-2.5">Visit</h3>
+                <p> Kaserngatan 3 4 tr, 903 47 Umeå Swe</p>
               </div>
             </FadeUpAnimation>
             <FadeUpAnimation className="rounded-medium bg-white p-2.5 shadow-box dark:bg-dark-200">
@@ -48,37 +48,14 @@ const ContactInfo = () => {
                   />
                 </svg>
                 <h3 className="mb-2.5">Email Us</h3>
-                <Link href="mailto:hallo@aplio.com"> hallo@aplio.com </Link>
+                <Link href="support@arboreal.se"> support@arboreal.se </Link>
               </div>
             </FadeUpAnimation>
             <FadeUpAnimation className="rounded-medium bg-white p-2.5 shadow-box dark:bg-dark-200">
               <div className=" h-full rounded border border-dashed border-gray-100 p-10 text-center dark:border-borderColor-dark">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  width="40"
-                  height="40"
-                  viewBox="0 0 40 40"
-                  fill="none"
-                  className="mb-6 inline-block">
-                  <path
-                    d="M37.0899 2.93026L35.2227 1.29713C33.5196 -0.406328 30.6367 -0.484468 28.8008 1.38308L25.6836
-              5.46982C23.9336 7.22016 23.9336 10.0723 25.6836 11.807L28.168 14.3544C25.4649 20.6915 20.4883 25.6925
-              14.3477 28.193L11.8008 25.7003C10.9492 24.8486 9.83206 24.3798 8.63675 24.3798C7.44143 24.3798 6.31643
-              24.8486 5.55081 25.63L1.31643 28.8963C-0.433567 30.6466 -0.433567 33.4987 1.28518 35.1944L2.98831
-              37.1479C4.82425 38.9842 7.28518 40 9.97268 40C22.8867 40 40.0039 22.8638 40.0039 9.96288C40.0039 7.2983
-              38.9883 4.81344 37.1211 2.94589L37.0899 2.93026ZM9.93362 38.32C7.69924 38.32 5.65237 37.4839 4.16799
-              35.9992L2.46487 34.0301C1.36331 32.9283 1.36331 31.1467 2.37893 30.1153L6.61331 26.849C7.14456 26.3176
-              7.84768 26.0129 8.61331 26.0129C9.37893 26.0129 10.0821 26.3098 10.6133 26.849L13.5664 29.7324C13.8008
-              29.9668 14.1367 30.0293 14.4492 29.9121C21.4024 27.2631 27.0508 21.6136 29.9336 14.4403C30.0508 14.1434
-              29.9805 13.7918 29.7539 13.5417L26.8711 10.588C25.7696 9.48623 25.7696 7.70463 26.9414 6.5169L30.0586
-              2.43016C31.1602 1.32839 32.9414 1.32839 34.0899 2.46142L35.9571 4.09455C37.4727 5.61047 38.3086 7.66556
-              38.3086 9.89256C38.3086 21.8246 21.8789 38.2653 9.94143 38.2653L9.93362 38.32Z"
-                    fill=""
-                    className="fill-paragraph dark:fill-white"
-                  />
-                </svg>
-                <h3 className="mb-2.5">Call Us</h3>
-                <Link href="tel:+391(0)355684593">+391 (0)35 2568 4593</Link>
+              
+                <h3 className="mb-2.5">Read more</h3>
+                <Link href="https://www.arboreal.se/en/">Old site</Link>
               </div>
             </FadeUpAnimation>
           </div>

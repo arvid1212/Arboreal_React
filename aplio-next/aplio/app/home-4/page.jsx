@@ -14,19 +14,23 @@ import SecondaryNavbar from '@/components/navbar/SecondaryNavbar'
 import About from '../about/page'
 import Footer from '@/components/footer/Footer'
 import Products from '@/components/products/products'
+import PrimaryNavbar from '@/components/navbar/PrimaryNavbar'
 export const metadata = {
   title: 'Analytics',
 }
 
+
+
 const HomePage4 = () => {
   return (
     <>
-      <SecondaryNavbar hideTopBar />
+      <PrimaryNavbar />
       <main>
+        
         <Hero/>
-       <Products/>
+     
        <DataIntegration/>
-        <ShareClientMarquee />
+       
         <FinancialBlog className="dark:bg-dark-300" />
     
       </main>

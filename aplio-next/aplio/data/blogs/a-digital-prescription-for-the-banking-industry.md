@@ -1,40 +1,24 @@
 ---
-title: A digital prescription for the banking industry
-thumbnail: "/images/blog/blog1.png"
+title: Tutorial of advanced features in Arboreal Forest
+thumbnail: ''
 featureImage: "/images/blog/blogDetails.png"
-date: Aug 30, 2024
-author: Kristin Watson
+date: 28 Aug 2023
+author: Johan Ekenstedt
 featured: true
-categories: "Sales & Finance"
-tags: Marketing 
-
+categories: "News"
+tags: Forest,news
 ---
+	
+Do you know everything about our tree-measuring app, Arboreal Forest? It's more than just the basics!
 
-Lorem ipsum dolor sit amet consectetur. Nullam blandit dui gravida aliquam enim eu. Adipiscing viverra vulputate curabitur est.
+We've released a video to spotlight advanced features. 🎥 Dive in!
 
-Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit.
+Johan Ekenstedt will guide you and show the following:
 
-Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.
-
-### Work harder & gain success
-
-Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit.
-
-Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.
-
-- Manage your time so you’ll get more done in less time
-- Cut expenses without sacrificing quality
-- Attract and retain quality, high-paying customers
-
-![blog images](/images/blog/blogDetails1.png)
-![about images](/images/blog/blogDetails2.png)
-
-### Manage your online banking
-
-Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit.
-
-Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.
-
-- Manage your time so you’ll get more done in less time
-- Cut expenses without sacrificing quality
-- Attract and retain quality, high-paying customers
+ 	How to change tree species of a measured tree
+ 	Mark a tree as damaged
+ 	Erase a measured tree
+ 	Different settings
+ 	Measure the height of many trees of the same species
+ 	Re-orient the local coordinate system
+ 	And a lot more..

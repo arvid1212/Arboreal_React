@@ -1,39 +1,16 @@
 ---
-title: Documents required for business analysis
+title: Arboreal Skog är bäst i test
 thumbnail: '/images/blog/blog6.png'
 featureImage: '/images/blog/blogDetails.png'
-date: Aug 30, 2024
-author: Will Smith
+date: 10 Oct 2023 
+author: Johan Ekenstedt
 featured: true
-categories: 'Research'
-tags: Research
+categories: 'Forest'
+tags: Forest, News
 ---
+	
+	
+Nu har den första vetenskapliga utvärderingen av mobilapplikationerna Arboreal Skog, Katam och Trestima publicerats i en vetenskaplig tidskrift.Studien fokuserade på stamantal och trädets diameter i skogar med olika egenskaper. Två trädslag, medelhavstall &nbsp;och eukalyptus., användes för utvärderingen. Apparna visade god noggrannhet, särskilt i skogar med platt terräng, äldre, regelbundna skogar med låg undervegetation. De var mindre effektiva i yngre, oregelbundna skogar med lutande terräng och tät undervegetation.
 
-Lorem ipsum dolor sit amet consectetur. Nullam blandit dui gravida aliquam enim eu. Adipiscing viverra vulputate curabitur est.
-
-Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit.
-
-Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.
-
-### Work harder & gain success
-
-Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit.
-
-Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.
-
-- Manage your time so you’ll get more done in less time
-- Cut expenses without sacrificing quality
-- Attract and retain quality, high-paying customers
-
-![blog images](/images/blog/blogDetails1.png)
-![about images](/images/blog/blogDetails2.png)
-
-### Manage your online banking
-
-Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit.
-
-Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.
-
-- Manage your time so you’ll get more done in less time
-- Cut expenses without sacrificing quality
-- Attract and retain quality, high-paying customers
+Av de utvärderade apparna hade Arboreal Skog bästa resultatet med en poäng på 15,5, följt av Katam med 12 poäng och Trestima med 6 poäng. Särskilt framträdande var Arboreal Skogs förmåga att mäta både diameter och stamantal med hög noggrannhet även i områden med undervegetation. Dessutom kunde den mäta höjden på träden.
+Du kan läsa hela artikeln på www.mdpi.com/1999-4907/14/8/1553

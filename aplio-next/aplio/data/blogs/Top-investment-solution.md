@@ -1,39 +1,12 @@
 ---
-title: Top Investment Solutions In 2024
+title: Nya funktioner andriod
 thumbnail: "/images/blog/blog4.png"
 featureImage: "/images/blog/blogDetails.png"
 date: Aug 30, 2024
 author: Anni Mathes
-categories: "Investment"
-tags: Finance
-
+categories: "Threeheight"
+tags: News
 ---
-
-Lorem ipsum dolor sit amet consectetur. Nullam blandit dui gravida aliquam enim eu. Adipiscing viverra vulputate curabitur est.
-
-Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit.
-
-Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.
-
-### Work harder & gain success
-
-Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit.
-
-Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.
-
-- Manage your time so you’ll get more done in less time
-- Cut expenses without sacrificing quality
-- Attract and retain quality, high-paying customers
-
-![blog images](/images/blog/blogDetails1.png)
-![about images](/images/blog/blogDetails2.png)
-
-### Manage your online banking
-
-Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit.
-
-Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.
-
-- Manage your time so you’ll get more done in less time
-- Cut expenses without sacrificing quality
-- Attract and retain quality, high-paying customers
+https://youtu.be/Oun6tB9MPYQ <p>Vi är glada att kunna berätta om några nya funktioner som gör det enklare, mer exakt och roligare än någonsin att mäta träd.</p><p> <strong>1. </strong><strong>Precision du kan lita på</strong>: Vi har helt omarbetat våra algoritmer för höjdberäkning för att ge ännu mer exakta mätningar. Du kommer att bli förvånad över hur precisa dina mätningar nu blir!<br /><br /> <strong>2. </strong><strong>Spara trädets position</strong>: Håll koll på var varje träd är beläget. Med GPS-integrering kan du spara den exakta platsen för varje mätning. Kom ihåg att kontrollera GPS-noggrannheten i det nedre högra hörnet av skärmen innan du markerar trädet.</p><p><strong>3. </strong><strong>Mät bredd och kronhöjd</strong>: Gå längre än bara höjd! Nu kan du med några få tryck mäta både bredden och kronhöjden på vilket träd som helst. Perfekt för omfattande trädstudier.<br /><br /><strong> 4. Exportera dina data</strong>: Behöver du analysera dina mätningar vidare? Exportera dem som en CSV-fil och använd enkelt dina data med Excel, Arcmap, QGIS och mer!</p><p><strong>5. Organisera dina mätningar:</strong> Byt namn, lägg till kommentarer, redigera diameter eller radera gamla mätningar. Håll dina data lika organiserade som din skog!</p><p><strong>6. Spara bild på trädet</strong>: Ta automatiskt en bild varje gång du mäter ett träds höjd. Denna funktion säkerställer att du alltid kommer ihåg hur dina träd ser ut. Aktivera eller inaktivera denna funktion i inställningarna.<br /><br /><strong> 7. Snygg ny design och handledningar</strong>: Vi har gett appen ett fräscht, modernt utseende och ersatt våra gamla handledningar med lättförståeliga videoguider för att hjälpa dig att komma igång.</p><p> </p>https://youtu.be/w9kbmwffue4		
+													<a href="https://play.google.com/store/search?q=arboreal%20tree&#038;c=apps">
+							<img width="300" height="89" src="https://arboreal.se/wp-content/uploads/2022/11/android-download-2-300x89.png" alt="" loading="lazy" srcset="https://arboreal.se/wp-content/uploads/2022/11/android-download-2-300x89.png 300w, https://arboreal.se/wp-content/uploads/2022/11/android-download-2-768x228.png 768w, https://arboreal.se/wp-content/uploads/2022/11/android-download-2.png 818w" sizes="(max-width: 300px) 100vw, 300px" />								</a>

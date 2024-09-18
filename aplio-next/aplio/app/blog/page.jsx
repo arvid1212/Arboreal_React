@@ -1,11 +1,10 @@
 import FeatureBlog from '@/components/blogs/FeatureBlog'
 import RecentNews from '@/components/blogs/RecentNews'
 import Footer from '@/components/footer/Footer'
-import SecondaryNavbar from '@/components/navbar/SecondaryNavbar'
-import NewsLetter from '@/components/shared/NewsLetter'
+
 import PageHero from '@/components/shared/PageHero'
 import getMarkDownData from '@/utils/getMarkDownData'
-
+import PrimaryNavbar from '@/components/navbar/PrimaryNavbar'
 export const metadata = {
   title: 'Blog',
 }
@@ -14,12 +13,12 @@ const Blog = () => {
   const blogs = getMarkDownData('data/blogs')
   return (
     <>
-      <SecondaryNavbar />
+     <PrimaryNavbar/>
       <main>
-        <PageHero subtitle="BLOG GRID" title="Recent blogs created <br/> by aplio" />
+        <PageHero subtitle="" title="News from Arboreal" />
         <FeatureBlog featureBlog={blogs} />
         <RecentNews blogItemData={blogs} />
-        <NewsLetter />
+        
       </main>
       <Footer />
     </>

@@ -1,0 +1,33 @@
+{
+"_comment": "PageList",
+"_home":{
+    "_hero":"Mesuare the forest <br> wtih your phone",
+    "_products":{
+
+        "_plots":"Sample plots",
+        "_individual":"Indivial tree",
+        "_prism":"Realscope/Prism"
+
+    },
+   "_nav":{
+    "_home":"",
+    "_About":"",
+"_ArborealForest":"",
+"_treeheight":"",
+"_team":"",
+"Contact":""
+
+   }
+
+
+},
+"_About":"",
+"_ArborealForest":"",
+"_treeheight":"",
+"_team":"",
+"Contact":""
+    
+
+
+
+}

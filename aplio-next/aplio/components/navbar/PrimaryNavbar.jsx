@@ -8,6 +8,7 @@ import Link from 'next/link'
 import { useEffect, useState } from 'react'
 import { createPortal } from 'react-dom'
 import SearchOption from './SearchOption'
+import Switchlng from '../switchlng/switchlng'
 
 const PrimaryNavbar = () => {
   const [showSearch, setShowSearch] = useState(false)
@@ -33,12 +34,15 @@ const PrimaryNavbar = () => {
   return (
     <>
       <header
+     
         className={cn(
           'fixed left-0 z-50 w-full bg-transparent pt-8 transition-all duration-500 max-md:z-[500]',
           sticky ? 'nav-sticky' : '',
         )}>
+          
         <nav className="container flex items-center">
         <div className="nav-logo">
+       
             <Link href="/">
               <Image src={menuData.logoLight} alt="logo" className="dark:hidden" width={117} height={80} />
               <Image
@@ -50,8 +54,11 @@ const PrimaryNavbar = () => {
               />
             </Link>
           </div>
-    
+          <div>
+
+          </div>
           <ul className="nav-list mx-auto hidden rounded-large bg-white p-2.5 shadow-nav dark:bg-dark-200 lg:flex [&>*:not(:last-child)]:me-1">
+         
             {menuData.menuContent.map((menuItem) => (
               <li className={`${menuItem.path ?? 'group relative'}`} key={menuItem.id}>
                 {menuItem.path ? (
@@ -94,6 +101,7 @@ const PrimaryNavbar = () => {
           </ul>
 
           <ul className="ml-auto flex items-center [&>*:not(:last-child)]:me-2.5">
+            <Switchlng/>
             <li className="">
               <button
                 onClick={() => setShowSearch(!showSearch)}

@@ -10,6 +10,8 @@ import { useEffect, useState } from 'react'
 import { createPortal } from 'react-dom'
 import SearchOption from './SearchOption'
 import TopBar from './TopBar'
+import Switchlng from '../switchlng/switchlng'
+
 
 const SecondaryNavbar = ({ hideTopBar = false }) => {
   const pathname = usePathname()
@@ -189,6 +191,7 @@ const SecondaryNavbar = ({ hideTopBar = false }) => {
           </div>
         </nav>
       </div>
+      <Switchlng/>
       {showSearch && createPortal(<SearchOption onClose={() => setShowSearch(false)} />, document.body)}
     </header>
   )

@@ -15,13 +15,12 @@ const page = () => {
       <PrimaryNavbar />
       <main>
         <PageHero
-          subtitle="GET IN TOUCH"
-          title="Contact our help desk <br/> for assistance"
-          paragraph="Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. It's not Latin, though it looks like it"
+          subtitle="Info"
+          title="Contact us"
+          paragraph=""
         />
         <ContactInfo />
-        <ContactForm />
-        <NewsLetter />
+      
       </main>
       <Footer />
     </>

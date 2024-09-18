@@ -1,11 +1,11 @@
 ---
-title: We’ve been perfecting the art of running
+title: Forest_News_4
 thumbnail: "/images/blog/blog2.png"
 featureImage: "/images/blog/blogDetails.png"
 date: Aug 30, 2024
 author: Polish Armstrong
-categories: "Investment"
-tags: Finance
+categories: "Forest"
+tags: News,Forest
 
 ---
 

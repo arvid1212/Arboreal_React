@@ -11,7 +11,7 @@ export const menuData = {
   menuContent: [
     {
       id: 1,
-      title: 'Hem',      
+      title: 'Home',      
       path: '/home-4',
       newTab: false,
         },
@@ -20,19 +20,19 @@ export const menuData = {
     
     {
       id: 2,
-      title: 'Om oss',
+      title: 'About',
       path: '/about',
       newTab: false,
     },
     {
       id: 3,
-      title: 'Arboreal Skog',
+      title: 'Arboreal Forest',
       path: '/skog',
       newTab: false,
     },
     {
       id:7,
-      title:'Trädhöjd',
+      title:'Treeheight',
       path:'/threeheight'
 
     },
@@ -48,37 +48,14 @@ export const menuData = {
     
     {
       id: 5,
-      title: 'Nyheter',
-      submenu: [
-        {
-          id: 5.1,
-          title: 'bloggar',
-          path: '/blog',
-          newTab: false,
-        },
-        {
-          id: 5.2,
-          title: 'Blogg lista',
-          path: '/blog-list',
-          newTab: false,
-        },
-        {
-          id: 5.3,
-          title: 'Kategorier',
-          path: '/categories/Marketing',
-          newTab: false,
-        },
-        {
-          id: 5.4,
-          title: 'Taggar',
-          path: '/tags/Benefits',
-          newTab: false,
-        },
-      ],
+      title: 'News',
+      path: '/blog',
+      newTab: false,
+   
     },
     {
       id: 6,
-      title: 'Kontakt',
+      title: 'Contact',
       path: '/contact',
       newTab: false,
     },
@@ -386,40 +363,113 @@ export const CounterData = [
 export const FAQData = [
   {
     id: 1,
-    type: ['general', 'changelog'],
-    question: 'What is a business agency?',
-    answer: "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It's not Latin.",
+    type: ['Arboreal Tree Height','general'],
+    question: 'How do I get the best result?',
+    answer: "When you walk away from the tree you should keep your phone in an upright position (not pointing directly at the ground). Walk away approximately the same distance as the height of the tree. It is important that you see the top clearly from the point where you aim at the base and top of the tree..",
   },
   {
     id: 2,
-    type: ['general'],
-    question: 'What services does a business agency provide?',
-    answer: "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It's not Latin.",
+    type: ['Arboreal Tree Height','general'],
+    question: ' I can´t se the base of the tree because it is concealed.',
+    answer: "If you are measuring in a dense forest it could be hard to get a good view at the base of the tree. If you in the beginning marked the tree at breast height you could aim 1.3 meter below the red mark.",
   },
   {
     id: 3,
-    type: ['general', 'changelog'],
-    question: 'How often should I update my website?',
-    answer: "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It's not Latin.",
+    type: ['Arboreal Tree Height','general'],
+    question: 'Is there any difference between different phones?',
+    answer: "Arboreal uses the camera and the internal sensors of the phone. New phones have better cameras and works better in low-light conditions. We have got good measurements from all phones we tested. But we got the impression that we got better results when not using the oldest model Iphone 6S that works with Arboreal.",
   },
   {
     id: 4,
-    type: ['general', 'terms'],
-    question: 'How do subscriptions work?',
-    answer: "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It's not Latin.",
+    type: ['Arboreal Tree Height','general'],
+    question: 'What phone do I need?',
+    answer: "iOS: The device need to support Augmented Reality (AR). All iPad and iPhone devices that are released after 2015 supports AR. iOS: The device need to support Augmented Reality (AR). All iPad and iPhone devices that are released after 2015 supports AR. Android: The app uses AR-technology that’s available in most new phones. Here is a list of supported devices.",
   },
   {
     id: 5,
-    type: ['changelog', 'terms'],
-    question: 'What other services are you compatible with?',
-    answer: "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It's not Latin.",
+    type: ['Arboreal Tree Height','general'],
+    question: 'How does it work?',
+    answer: "The app creates a 3D environment with the camera and the internal sensors. The user marks the position of a tree and walks some distance from the tree and the inclinometer (angle) is uses to compute the height of the actual tree.",
   },
   {
     id: 6,
-    type: ['general', 'terms'],
-    question: 'What other services are you compatible with?',
-    answer: "Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It's not Latin.",
+    type: ['Arboreal Tree Height','general'],
+    question: 'When does it not work as usual?',
+    answer: "When the sun has set and its really dark, when you are measuring a single tree in a place with no structures (for example a single tree on a snowfield) and when it is really cold and rainy outside because it is not pleasant to touch the screen with your fingers under this circumstances. As a summary it works very good during the conditions when it is usual to do measurements.",
   },
+
+
+  {
+    id: 7,
+    type: ['Arboreal Tree Height','general'],
+    question: 'How accurate is the measurements?',
+    answer: "It is pretty accurate, the results are within a few percent. Take a look at the evaluation here: Android – iOS.If you have any additional questions or need help – send an email to johan@arboreal.se",
+  },
+
+
+  {
+    id: 8,
+    type: ['Arboreal Forest','general'],
+    question: ' What phone do I need?',
+    answer: "Arboreal Forest for iOS requires the following phones: Iphone SE, 6S, 7, 7 +, 8, 8 +, X, Xs, Xs Max, XR, 11, 11 Pro, 11 Pro Max, 12, 12 Mini, 12 Pro, 12 Pro Max. 13, 13 Pro, 13 Pro Max, 14, 14 Pro, 14 Pro Max, 14 Plus. The app also works on Ipad Pro 9.7 ″ – 12.9 ″ and Ipad 9.7 ″ (fifth, sixth and seventh generation), iPad Air third generation and iPad min fifth generation. The Lidar sensor is available on iPhone 12 Pro, 12 Pro Max, 13 Pro, 13 Pro Max, 14 Pro and 14 Pro Max and the latest iPad Pro.The app is only available for iOS.",
+  },
+
+
+  {
+    id: 9,
+    type: ['Arboreal Forest','general'],
+    question: 'Does it work offline?',
+    answer: "All measurements are made on the device in realtime and no cellular connection is required. A summary report is also available offline. If you want to save data in the cloud and then be able to use it in your own computer system, you must access Wifi or cellular connection afterwards.",
+  },
+
+
+  {
+    id: 10,
+    type: ['Arboreal Forest','general'],
+    question: ' How accurate is it?',
+    answer: "The measurements are significantly better than measuring with a relascope. The diameter of the trees has an average error of 4-9% (RMSE) and the base area is 6-9% and the number of trunks per hectare is 2-4% at the sample level. The size of the source of error depends on the user’s experience and the phone model used. We work continuously to improve the measurements.The biggest source of error is where you place the sample plots. By increasing the number of plots and the size of the plots, the end result will be the better.",
+  },
+
+
+  {
+    id: 11,
+    type: ['Arboreal Forest','general'],
+    question: 'Can I measure in all kinds of forests?',
+    answer: "It is possible to measure in most forests.  In forests where it is hard to walk, it is also hard to get good measurements. For example if you have 15 000 trees per hectare or the terrain is very steep, then it will also be hard to measure.",
+  },
+
+
+  {
+    id: 12,
+    type: ['Arboreal Forest','general'],
+    question: 'Do I still need to bring other measuring instruments?',
+    answer: "We replace all  measuring tapes, sticks, inclinometer, GPS and relascopes.You only need to bring your phone.",
+  },
+
+
+  {
+    id: 13,
+    type: ['Arboreal Forest','general'],
+    question: 'How many measurements can I make on a single battery charge?',
+    answer: "Expect a maximum of 50 plots on a single charge. If you have an old phone with a bad battery, we recommend that you replace the battery or bring a power bank..",
+  },
+
+  {
+    id: 14,
+    type: ['Arboreal Forest','general'],
+    question: 'I want to export the measurements to my other applications. How do I do that?',
+  
+    answer: "The data you have synced are available on https://www.arboreal.se/forest/. You could download the data as .csv-files. If you are a company customer you could retrieve the data with through a REST-API.",
+  
+  },
+
+  {
+    id: 15,
+    type: ['Arboreal Forest','general'],
+    question: 'Why is it only available on iOS?',
+    answer: "Yes. We have learnt a lot by creating the height meter for both Android and iOS. It takes a lot of resources and time to create Arboreal Forest for Android. We also think that the Lidar sensor on the newest iPhones are great. There is some similar sensors on some Android devices, but it is uncertain if they will persist and be available in the long run. We have not started any development of Arboreal Forest for Android and we have no such plan in the closest future..",
+  }
+
 ]
 
 export const TestimonialData = [
@@ -528,7 +578,7 @@ export const CoreFeatures = [
   {
     id: 1,
     title: 'Useful Features',
-    iconLight: '/images/payment/invoice.svg',
+    iconLight: '/ima',
     iconDark: '/images/payment/invoice-dark.svg',
     desc: 'The prevailing view asumed lorem ipsum was born as nonsense text.',
   },
@@ -692,13 +742,13 @@ export const BankingServicesData = [
 export const teamData = [
   {
     id: 1,
-    name: 'Cody Fisher',
-    designation: 'Lead Designer',
+    name: 'Hannes Hagman-Hansson',
+    designation: 'Android-developer',
     fbLink: '#',
     dribbleInLink: '#',
     gitHubLink: '#',
     linkedInLink: '#',
-    image: '/images/team/team1.png',
+    image: '/images/old site/Team/HannesHagmankvadrat-qphv43gvuz89u5ftfxc09e045577jds2ugqm4knet4.jpg',
     details:
       'Lorem ipsum dolor sit amet consectetur. Nullam blandit dui gravida aliquam enim eu. Adipiscing viverra vulputate curabitur est. <br /> <br /> Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. <br /> <br />Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.',
     email: 'team@gmail.com',
@@ -706,13 +756,13 @@ export const teamData = [
   },
   {
     id: 2,
-    name: 'Kristin Coper',
-    designation: 'Project Manager',
+    name: 'John-John Markstedt',
+    designation: 'CTO,System Architect',
     fbLink: '#',
     dribbleInLink: '#',
     gitHubLink: '#',
     linkedInLink: '#',
-    image: '/images/team/team2.png',
+    image: '/images/old site/Team/john-johnSW-1.jpg',
     details:
       'Lorem ipsum dolor sit amet consectetur. Nullam blandit dui gravida aliquam enim eu. Adipiscing viverra vulputate curabitur est. <br /> <br /> Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. <br /> <br />Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.',
     email: 'team@gmail.com',
@@ -720,13 +770,13 @@ export const teamData = [
   },
   {
     id: 3,
-    name: 'Guy Hawkins',
-    designation: 'Lead Designer',
+    name: 'Johan Ekenstedt',
+    designation: 'CEO,iOS development',
     fbLink: '#',
     dribbleInLink: '#',
     gitHubLink: '#',
     linkedInLink: '#',
-    image: '/images/team/team3.png',
+    image: '/images/old site/Team/Johan_SW_250-1.png',
     details:
       'Lorem ipsum dolor sit amet consectetur. Nullam blandit dui gravida aliquam enim eu. Adipiscing viverra vulputate curabitur est. <br /> <br /> Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. <br /> <br />Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.',
     email: 'team@gmail.com',
@@ -811,7 +861,7 @@ export const AboutImages = [
   },
   {
     id: 3,
-    image: '',
+    image: '/images/old site/big.jpg',
   },
 ]
 
@@ -857,7 +907,7 @@ export const IntegrationData = [
 export const FooterData = {
   logo: "images/Logotyp Arboreal Green 2.svg",
   logoDark: '/images/logo-light.svg',
-  footerText: 'Besöksadress: Kaserngatan 3 4 tr, 903 47 Umeå',
+  footerText: 'Visitor adress: Kaserngatan 3 4 tr, 903 47 Umeå Swe',
   copyright:'Arboreal 2019',
   email: '',
  
@@ -865,7 +915,7 @@ export const FooterData = {
   explore: [
     {
       id: 1,
-      name: 'Om oss',
+      name: 'About',
       link: '/about',
     }
   ],
@@ -879,7 +929,7 @@ export const FooterData = {
 
     {
       id: 4,
-      name: 'Blog',
+      name: 'News',
       link: '/blog',
     }
   ],

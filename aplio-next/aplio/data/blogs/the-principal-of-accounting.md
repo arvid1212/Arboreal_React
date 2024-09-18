@@ -1,11 +1,11 @@
 ---
-title: The Princples of Accounting
+title: Threeheight_News_5
 thumbnail: "/images/blog/blog5.png"
 featureImage: "/images/blog/blogDetails.png"
 date: Aug 30, 2024
 author: Kristin Watson
-categories: "Acounting"
-tags: Acounting
+categories: "News"
+tags: Height
 
 ---
 

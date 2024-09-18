@@ -11,8 +11,8 @@ const FinancialBlog = ({ className = 'dark:bg-dark' }) => {
     <section className={cn('relative bg-white pt-150 max-md:pb-20', className)}>
       <div className="container relative">
         <div className="mx-auto mb-16 max-w-[550px] text-center">
-          <p className="section-tagline">Nyheter</p>
-          <h2>Det senaste</h2>
+          <p className="section-tagline">News</p>
+          <h2>Latest</h2>
         </div>
         <div className="relative z-10">
           <div className="absolute left-1/2 top-1/2 -z-10 flex -translate-x-1/2 -translate-y-1/2 max-lg:flex-col">
