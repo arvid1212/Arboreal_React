@@ -12,6 +12,7 @@ import TestimonialSlider from '@/components/shared/TestimonialSlider'
 import { AboutFeaturesData } from '@/data/data'
 import ContactInfo from '@/components/contact/ContactInfo'
 import Faq from '@/components/shared/Faq'
+
 export const metadata = {
   title: 'About',
 }
@@ -26,7 +27,8 @@ const About = () => {
       </main>
       <div>
 
-      <Faq/>
+   
+      <ContactInfo/>
 
       </div>
       <Footer />

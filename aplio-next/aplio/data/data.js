@@ -32,19 +32,16 @@ export const menuData = {
     },
     {
       id:7,
-      title:'Treeheight',
+      title:'Tree height',
       path:'/threeheight'
 
     },
     {
-      id: 4,
-      
-        
-          
-          title: 'Team',
-          path: '/teams',
-          newTab: false,
-        },
+      id: 9,
+      title: 'prism',
+      path: '/prism',
+      newTab: false,
+    },
     
     {
       id: 5,
@@ -53,9 +50,20 @@ export const menuData = {
       newTab: false,
    
     },
+  
+
+ 
     {
-      id: 6,
-      title: 'Contact',
+      id:8,
+      title:'Login',
+      path:'/login',
+      newTab:false,
+    },
+
+   
+    {
+      id: 10,
+      title: 'Faq',
       path: '/contact',
       newTab: false,
     },
@@ -409,7 +417,7 @@ export const FAQData = [
 
   {
     id: 8,
-    type: ['Arboreal Forest','general'],
+    type: ['forest','general'],
     question: ' What phone do I need?',
     answer: "Arboreal Forest for iOS requires the following phones: Iphone SE, 6S, 7, 7 +, 8, 8 +, X, Xs, Xs Max, XR, 11, 11 Pro, 11 Pro Max, 12, 12 Mini, 12 Pro, 12 Pro Max. 13, 13 Pro, 13 Pro Max, 14, 14 Pro, 14 Pro Max, 14 Plus. The app also works on Ipad Pro 9.7 ″ – 12.9 ″ and Ipad 9.7 ″ (fifth, sixth and seventh generation), iPad Air third generation and iPad min fifth generation. The Lidar sensor is available on iPhone 12 Pro, 12 Pro Max, 13 Pro, 13 Pro Max, 14 Pro and 14 Pro Max and the latest iPad Pro.The app is only available for iOS.",
   },
@@ -417,7 +425,7 @@ export const FAQData = [
 
   {
     id: 9,
-    type: ['Arboreal Forest','general'],
+    type: ['forest','general'],
     question: 'Does it work offline?',
     answer: "All measurements are made on the device in realtime and no cellular connection is required. A summary report is also available offline. If you want to save data in the cloud and then be able to use it in your own computer system, you must access Wifi or cellular connection afterwards.",
   },
@@ -425,7 +433,7 @@ export const FAQData = [
 
   {
     id: 10,
-    type: ['Arboreal Forest','general'],
+    type: ['forest','general'],
     question: ' How accurate is it?',
     answer: "The measurements are significantly better than measuring with a relascope. The diameter of the trees has an average error of 4-9% (RMSE) and the base area is 6-9% and the number of trunks per hectare is 2-4% at the sample level. The size of the source of error depends on the user’s experience and the phone model used. We work continuously to improve the measurements.The biggest source of error is where you place the sample plots. By increasing the number of plots and the size of the plots, the end result will be the better.",
   },
@@ -433,7 +441,7 @@ export const FAQData = [
 
   {
     id: 11,
-    type: ['Arboreal Forest','general'],
+    type: ['forest','general'],
     question: 'Can I measure in all kinds of forests?',
     answer: "It is possible to measure in most forests.  In forests where it is hard to walk, it is also hard to get good measurements. For example if you have 15 000 trees per hectare or the terrain is very steep, then it will also be hard to measure.",
   },
@@ -441,7 +449,7 @@ export const FAQData = [
 
   {
     id: 12,
-    type: ['Arboreal Forest','general'],
+    type: ['forest','general'],
     question: 'Do I still need to bring other measuring instruments?',
     answer: "We replace all  measuring tapes, sticks, inclinometer, GPS and relascopes.You only need to bring your phone.",
   },
@@ -449,14 +457,14 @@ export const FAQData = [
 
   {
     id: 13,
-    type: ['Arboreal Forest','general'],
+    type: ['forest','general'],
     question: 'How many measurements can I make on a single battery charge?',
     answer: "Expect a maximum of 50 plots on a single charge. If you have an old phone with a bad battery, we recommend that you replace the battery or bring a power bank..",
   },
 
   {
     id: 14,
-    type: ['Arboreal Forest','general'],
+    type: ['forest','general'],
     question: 'I want to export the measurements to my other applications. How do I do that?',
   
     answer: "The data you have synced are available on https://www.arboreal.se/forest/. You could download the data as .csv-files. If you are a company customer you could retrieve the data with through a REST-API.",
@@ -465,7 +473,7 @@ export const FAQData = [
 
   {
     id: 15,
-    type: ['Arboreal Forest','general'],
+    type: ['forest','general'],
     question: 'Why is it only available on iOS?',
     answer: "Yes. We have learnt a lot by creating the height meter for both Android and iOS. It takes a lot of resources and time to create Arboreal Forest for Android. We also think that the Lidar sensor on the newest iPhones are great. There is some similar sensors on some Android devices, but it is uncertain if they will persist and be available in the long run. We have not started any development of Arboreal Forest for Android and we have no such plan in the closest future..",
   }

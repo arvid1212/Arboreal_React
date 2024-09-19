@@ -5,6 +5,7 @@ import ContactForm from '@/components/shared/ContactForm'
 import NewsLetter from '@/components/shared/NewsLetter'
 import PageHero from '@/components/shared/PageHero'
 import PrimaryNavbar from '@/components/navbar/PrimaryNavbar'
+import Faq from '@/components/shared/Faq'
 export const metadata = {
   title: 'Contact',
 }
@@ -14,13 +15,10 @@ const page = () => {
     <>
       <PrimaryNavbar />
       <main>
-        <PageHero
-          subtitle="Info"
-          title="Contact us"
-          paragraph=""
-        />
-        <ContactInfo />
-      
+        <PageHero/>
+        <section>
+        <Faq/>
+        </section>
       </main>
       <Footer />
     </>

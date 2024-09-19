@@ -23,7 +23,7 @@ const Hero = () => {
         <div className="relative z-10 text-center ">
         <img className="bimg" src="images/hero/unnamed.jpg" alt="" srcset="" />
           <h1 className="Headertxt">
-            MESUARE THE FOREST <br /> with your phone
+            MEASUARE THE FOREST <br /> with your phone
           </h1>
         </div>
        

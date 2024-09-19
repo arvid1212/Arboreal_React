@@ -9,7 +9,7 @@ import FaqItem from '../shared/FaqItem'
 const FaqFilter = () => {
   const ref = useRef(null)
   const controlAnimation = useWhileInView(ref)
-  const categories = ['general', 'changelog', 'terms']
+  const categories = ['general', 'changelog', 'terms','height','forest']
   const [filterData, setFilterData] = useState([...FAQData])
   const [active, setActive] = useState(0)
   const [activeIndex, setActiveIndex] = useState(null)
@@ -21,6 +21,16 @@ const FaqFilter = () => {
   useEffect(() => {
     const generalFaq = FAQData.filter((faq) => faq.type.includes('general'))
     setFilterData(generalFaq)
+  }, [])
+
+  useEffect(() => {
+    const forestFaq = FAQData.filter((faq) => faq.type.includes('forest'))
+    setFilterData(forestFaq)
+  }, [])
+
+  useEffect(() => {
+    const heightFaq = FAQData.filter((faq) => faq.type.includes('height'))
+    setFilterData(heightFaq)
   }, [])
 
   const handleClick = (type) => {

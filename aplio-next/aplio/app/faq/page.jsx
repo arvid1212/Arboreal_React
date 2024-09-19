@@ -10,7 +10,7 @@ export const metadata = {
 const FaqPage = () => {
   return (
     <>
-      <SecondaryNavbar />
+
       <main>
         <PageHero
           subtitle="FAQ’S"
