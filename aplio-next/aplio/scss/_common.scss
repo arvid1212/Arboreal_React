@@ -196,20 +196,25 @@ body {
 
 
 .treeheight{
+      #h1{
 
-      margin:0;
+        position: relative;
+        top: 20%;
+      }
+      margin:5px;
      position: fixed;
       border: 3px solid green;
-      top: 30%;
-      left: 30%;
+      top: 40%;
+      left: 40%;
 }
 .forestdiv{
 
+  background-image: "/images/old site/Banner/Banner long 2.jpg";
   margin:0;
-  position: relative;
+  position: fixed;
    border: 3px solid green;
-   top: 30%;
-   left: 70%;
+   top: 40%;
+   left: 50%;
 }
 .Products-Title{
   
