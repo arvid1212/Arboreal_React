@@ -1,6 +1,8 @@
 import Link from 'next/link'
 import FadeUpAnimation from '../animations/FadeUpAnimation'
-
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faLinkedin } from '@fortawesome/free-brands-svg-icons'
+ 
 const ContactInfo = () => {
   return (
     <section className=" relative pb-150">
@@ -48,14 +50,20 @@ const ContactInfo = () => {
                   />
                 </svg>
                 <h3 className="mb-2.5">Email Us</h3>
-                <Link href="support@arboreal.se"> support@arboreal.se </Link>
+                <Link href="mailto:support@arboreal.se"> support@arboreal.se </Link>
               </div>
             </FadeUpAnimation>
             <FadeUpAnimation className="rounded-medium bg-white p-2.5 shadow-box dark:bg-dark-200">
-              <div className=" h-full rounded border border-dashed border-gray-100 p-10 text-center dark:border-borderColor-dark">
-              
-                <h3 className="mb-2.5">Read more</h3>
-                <Link href="https://www.arboreal.se/en/">Old site</Link>
+              <div className="h-full rounded border border-dashed border-gray-100 p-10 text-center dark:border-borderColor-dark">
+                <Link href="https://www.linkedin.com/company/arborealsweden/" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center">
+                  <FontAwesomeIcon
+                    icon={faLinkedin}
+                    className="mb-6 inline-block text-paragraph dark:text-white"
+                    size="2x"
+                    style={{ width: '40px', height: '40px' }}
+                  />
+                  <h3 className="mb-2.5">Social Media</h3>
+                </Link>
               </div>
             </FadeUpAnimation>
           </div>
@@ -64,5 +72,5 @@ const ContactInfo = () => {
     </section>
   )
 }
-
+ 
 export default ContactInfo
