@@ -38,7 +38,7 @@ export const menuData = {
     },
     {
       id: 9,
-      title: 'prism',
+      title: '',
       path: '/prism',
       newTab: false,
     },
